@@ -139,6 +139,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Working From Home](https://www.youtube.com/watch?v=IW3lhfVpLL4)
 
 ## Job boards
+  1. [EffizoJobs](https://www.effizojobs.com/) –  Connecting companies who want to hire remote workers with workers who need jobs.
   1. [4 Day Week](https://4dayweek.io) - Software jobs with a better work / life balance.
   1. [Angel List](https://angel.co/jobs) - Startup Jobs. Search by going to Job Type, and selecting "Remote OK".
   1. [Authentic Jobs](https://authenticjobs.com/?search_location=remote)
